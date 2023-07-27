@@ -1,0 +1,54 @@
+.buscar__mobil {
+    position: fixed;
+    top: 0;
+    right: -100%;
+    width: 100vw;
+    height: 100vh;
+    background-color: var(--color-flotante);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 10;
+    transition: 1s;
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+    -ms-transition: 1s;
+    -o-transition: 1s;
+}
+
+
+.buscar__mobil.activado {
+    transform: translateX(-100%);
+    transition: 1s;
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+    -ms-transition: 1s;
+    -o-transition: 1s;
+    -webkit-transform: translateX(-100%);
+    -moz-transform: translateX(-100%);
+    -ms-transform: translateX(-100%);
+    -o-transform: translateX(-100%);
+}
+
+.buscar__mobil-cerrar {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    color: var(--color-textos);
+    font-size: 2rem;
+    line-height: 1;
+}
+
+@media screen and (min-width: 768px) {
+
+}
+
+@media screen and (min-width: 1024px) {
+    .buscar__mobil {
+        display: none;
+    }
+}
+
+@media screen and (min-width: 1440px) {
+
+}

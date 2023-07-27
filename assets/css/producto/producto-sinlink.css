@@ -1,0 +1,9 @@
+.producto__sinlink {
+    display: block;
+    text-decoration: none;
+    color: var(--color-titulos);
+    font-family: var(--font-Sniglet);
+    font-size: 20px;
+    font-weight: 600;
+    
+}

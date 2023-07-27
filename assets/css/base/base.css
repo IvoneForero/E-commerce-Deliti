@@ -1,0 +1,59 @@
+html{
+    background: var(--background);
+    }
+
+html, body {
+    font-family: var(--font-Sansita);
+    font-size: 16px;
+    line-height: 1.5;
+    scroll-behavior: smooth;
+}
+
+html::-webkit-scrollbar {
+    width: .5rem;
+}
+
+html::-webkit-scrollbar-track {
+    background: var(--color-principal);
+}
+
+html::-webkit-scrollbar-thumb {
+    background:var(--color-btn);
+    border-radius: 5rem;
+}
+
+
+.contenedor {
+    display: flex;
+}
+
+.contenedor__principal {
+    width: calc(100% - 2rem);
+    margin: 0 auto;
+    padding: 1rem 0;
+}
+
+@media screen and (min-width: 768px) {
+    html, body {
+        font-size: 18px;
+    }
+
+    .contenedor__principal {
+        width: 90%;
+        margin: 0 auto;
+        padding: 1rem 0;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    html, body {
+        font-size: 18px;
+    }
+    .contenedor__principal {
+        width: 80%;
+        margin: 0 auto;
+        padding: 1rem 0;
+    }
+}
+
+

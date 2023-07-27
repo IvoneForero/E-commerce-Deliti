@@ -1,0 +1,6 @@
+.piepagina__mensaje {
+    width: 100%;
+    text-align: center;
+    color: var(--color-principal);
+    font-family: var(--font-Patrick);
+}

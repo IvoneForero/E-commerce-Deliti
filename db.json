@@ -1,0 +1,171 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "usuario": "admin@gmail.com",
+      "contrasenia": "admin",
+      "nombre": "Adminsitrador",
+      "rol": "administrador"
+    },
+    {
+      "id": 2,
+      "usuario": "ivone@forero.com",
+      "contrasenia": "12345678",
+      "nombre": "Ivone",
+      "rol": "administrador"
+    },
+    {
+      "id": 3,
+      "usuario": "armando@diaz.com",
+      "contrasenia": "12345678",
+      "nombre": "Armando",
+      "rol": "cliente"
+    }
+  ],
+  "productos": [
+    {
+      "id": "d54ef682-ca70-4cc4-8c7e-61ae50dd1522",
+      "nombre": "Cupcakes rosa",
+      "descripcion": "• Caja de cupcakes por 4 unidades.\n • Sabor masa: Vainilla o chocolate\n• Decoración Personalizada \n• Rellenos: Mora, Chocolate, fresa, oreo, arequipe (escoges 1 solo sabor para los 4 cupcakes)",
+      "categoria": "Cupcakes",
+      "precio": "54000",
+      "imagen": "https://i.postimg.cc/RhDh6b7m/cupcakes1.jpg"
+    },
+    {
+      "id": "ca8eb155-cfd1-472c-8058-02e56da12b51",
+      "nombre": "Cupcakes León",
+      "descripcion": "• Caja de cupcakes por 6 unidades.\n • Sabor masa: Vainilla o chocolate\n• Decoración Personalizada \n• Rellenos: Mora, Chocolate, fresa, oreo, arequipe (escoges 2 sabores para los 6 cupcakes)",
+      "categoria": "Cupcakes",
+      "precio": "68000",
+      "imagen": "https://i.postimg.cc/nLJzDmDX/cupcakes2.jpg"
+    },
+    {
+      "id": "23416c2e-2dd8-4d71-8d1a-03eb9af337fd",
+      "nombre": "Cupcakes Paris",
+      "descripcion": "• Caja de cupcakes por 4 unidades.\n • Sabor masa: Vainilla o chocolate\n• Decoración Personalizada \n• Rellenos: Mora, Chocolate, fresa, oreo, arequipe (escoges 1 solo sabor para los 4 cupcakes)",
+      "categoria": "Cupcakes",
+      "precio": "54000",
+      "imagen": "https://i.postimg.cc/YSzSfS6b/cupcakes3.jpg"
+    },
+    {
+      "nombre": "Cupcakes Kiss",
+      "descripcion": "• Caja de cupcakes por 4 unidades.\n • Sabor masa: Vainilla o chocolate\n• Decoración Personalizada \n• Rellenos: Mora, Chocolate, fresa, oreo, arequipe (escoges 1 solo sabor para los 4 cupcakes)",
+      "categoria": "Cupcakes",
+      "precio": "54000",
+      "imagen": "https://i.postimg.cc/9FDr5C2Q/cupcakes4.jpg",
+      "id": "c477dd68-d031-484a-a2ad-3f880a671708"
+    },
+    {
+      "nombre": "Cupcakes Mario",
+      "descripcion": "• Caja de cupcakes por 6 unidades.\n • Sabor masa: Vainilla o chocolate\n• Decoración Personalizada en 3D.\n• Rellenos: Mora, Chocolate, fresa, oreo, arequipe (escoges 2 sabores para los 6 cupcakes",
+      "categoria": "Cupcakes",
+      "precio": "68000",
+      "imagen": "https://i.postimg.cc/HxWkSC3H/cupcakes5.jpg",
+      "id": "1f491f7a-6b82-4c1f-b1e5-a83295687afa"
+    },
+    {
+      "id": "ce4769f4-cf4e-42f1-9094-42c9564e949f",
+      "nombre": "Cupcakes Quimica",
+      "descripcion": "• Caja de cupcakes por 6 unidades.\n • Sabor masa: Vainilla o chocolate\n• Decoración Personalizada \n• Rellenos: Mora, Chocolate, fresa, oreo, arequipe (escoges 2 sabores para los 6 cupcakes",
+      "categoria": "Cupcakes",
+      "precio": "68000",
+      "imagen": "https://i.postimg.cc/85yP9nnv/cupcakes6.jpg"
+    },
+    {
+      "id": "4625b9c5-d026-442b-ae83-520040dd8492",
+      "nombre": "Paletas Celebración",
+      "descripcion": "• Caja por 4 unidades de paletas de torta sabor a vainilla cubiertas de chocolate y decoradas con diseños en 2D.  \n • Rellenos: Mora, Chocolate, fresa, oreo, arequipe. (escoges 1 solo sabor.)",
+      "categoria": "Paletas",
+      "precio": "48000",
+      "imagen": "https://i.postimg.cc/J0G4Lc92/paletas.jpg"
+    },
+    {
+      "id": "97eb63e0-a3d4-4220-ba43-f996f1e56223",
+      "nombre": "Paletas SpiderMan",
+      "descripcion": "• Caja por 6 unidades de paletas de torta sabor a vainilla cubiertas de chocolate y decoradas con diseños en 2D.  \n • Rellenos: Mora, Chocolate, fresa, oreo, arequipe. (escoges 1 solo sabor.)",
+      "categoria": "Paletas",
+      "precio": "58000",
+      "imagen": "https://i.postimg.cc/MHNZKfwK/paletas2.jpg"
+    },
+    {
+      "id": "b26c356e-6b67-4205-823c-4e47e078e3de",
+      "nombre": "Paletas Cumpleaños",
+      "descripcion": "• Caja por 4 unidades de paletas de torta sabor a vainilla cubiertas de chocolate y decoradas con diseños en 2D.  \n • Rellenos: Mora, Chocolate, fresa, oreo, arequipe. (escoges 1 solo sabor.)",
+      "categoria": "Paletas",
+      "precio": "48000",
+      "imagen": "https://i.postimg.cc/8zhkNC0N/postre-3.jpg"
+    },
+    {
+      "id": "d7d956f3-87df-40be-bc59-f968a9d2b123",
+      "nombre": "Paletas Primaverales",
+      "descripcion": "• Caja por 4 unidades de paletas de torta sabor a vainilla cubiertas de chocolate y decoradas con diseños en 2D.  \n • Rellenos: Mora, Chocolate, fresa, oreo, arequipe. (escoges 1 solo sabor.)",
+      "categoria": "Paletas",
+      "precio": "48000",
+      "imagen": "https://i.postimg.cc/rpMVmLBW/paletas4.jpg"
+    },
+    {
+      "id": "7006f684-7c57-4276-b98c-db20f4ebe0d4",
+      "nombre": "Paletas Personalizadas",
+      "descripcion": "• Caja por 4 unidades de paletas de torta sabor a vainilla cubiertas de chocolate y decoradas con diseños en 2D.  \n • Rellenos: Mora, Chocolate, fresa, oreo, arequipe. (escoges 1 solo sabor.)",
+      "categoria": "Paletas",
+      "precio": "48000",
+      "imagen": "https://i.postimg.cc/c1bLc23y/paletas-5.jpg"
+    },
+    {
+      "id": "59f87e58-ca06-4aaf-9d13-164ead6e2cf0",
+      "nombre": "Paletas BabyShower",
+      "descripcion": "• Caja por 6 unidades de paletas de torta sabor a vainilla cubiertas de chocolate y decoradas con diseños en 2D.  \n • Rellenos: Mora, Chocolate, fresa, oreo, arequipe. (escoges 1 solo sabor.)",
+      "categoria": "Paletas",
+      "precio": "58000",
+      "imagen": "https://i.postimg.cc/FHczzp7t/paletas-6.jpg"
+    },
+    {
+      "id": "d28fa846-11ab-490b-816f-4c816ec3960a",
+      "nombre": "Box Chocolates",
+      "descripcion": "• Box por 15 chocolates mas 3 paletas decoradas. \n • Rellenos: Mora, Chocolate, oreo, arequipe.",
+      "categoria": "Combo-Box",
+      "precio": "90000",
+      "imagen": "https://i.postimg.cc/6pDZ1TGK/1box-chocolates.jpg"
+    },
+    {
+      "nombre": "Box Novios",
+      "descripcion": "• Box de 2 cupcakes de vainilla, decorados con tematica de novios mas botella de vino Piccolo gato negro de 187,5 ml.",
+      "categoria": "Combo-Box",
+      "precio": "40000",
+      "imagen": "https://i.postimg.cc/hvyz8GqH/2combo.jpg",
+      "id": "023f8d72-2fc6-45c5-99d3-b5a0843ab7f5"
+    },
+    {
+      "nombre": "Galletas ",
+      "descripcion": "Deliciosas galletas de mantequilla, elaboradas artesanalmente con exquisito sabor a vainilla.\n• Frasco de galletas por 75gr.",
+      "categoria": "Combo-Box",
+      "precio": "17500",
+      "imagen": "https://i.postimg.cc/rmTrMbJY/3galletas.jpg",
+      "id": "0aede470-f300-4270-a63b-84793a943ffd"
+    },
+    {
+      "id": "5bcbd732-98da-414c-8bb6-b87a1af81b9b",
+      "nombre": "Box cupcakes",
+      "descripcion": "• Box de cupcakes por 4 unidades mas botella de vino Piccolo gato negro de 187,5 ml.\n • Sabor masa: Vainilla o chocolate\n• Decoración Personalizada \n• Rellenos: Mora, Chocolate, fresa, oreo, arequipe (escoges 1 solo sabor para los 4 cupcakes)",
+      "categoria": "Combo-Box",
+      "precio": "68000",
+      "imagen": "https://i.postimg.cc/c1XnGF8X/4bo2x.jpg"
+    },
+    {
+      "nombre": "Box Chocogalletas",
+      "descripcion": "• Box de Chocolates y galletas. \n • Contiene 6 chocolates, 1 frasco de galletas de mantequilla sabor a vainilla por 75gr, 1 botella de vino Piccolo gato negro de 187,5 ml. y una copa de cristal.\n • Rellenos: Mora, Chocolate, oreo, arequipe (escoges 1 solo sabor para los chocolates)",
+      "categoria": "Combo-Box",
+      "precio": "80000",
+      "imagen": "https://i.postimg.cc/cJw3qZQn/5box.jpg",
+      "id": "288bced1-5762-4b27-9c8a-18aeb659f2df"
+    },
+    {
+      "nombre": "PopCakes",
+      "descripcion": "Deliciosos bombones, elaborados con miga de torta de vainilla, mezclada con frosting de queso crema philadelphiade, cubiertos con chocolate. \n • Las encuentras en esferas de 38 gr de peso, 4 cm de diámetro aproximadamente . \n • Se venden a partir de 6 unidades",
+      "categoria": "Combo-Box",
+      "precio": "50000",
+      "imagen": "https://i.postimg.cc/CLrkkchz/6pop.jpg",
+      "id": "5ff426e2-bc39-467e-b885-ceb5d37f874d"
+    }
+  ]
+}

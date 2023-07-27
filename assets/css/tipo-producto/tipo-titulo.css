@@ -1,0 +1,12 @@
+.producto__titulo {
+    font-weight: 700;
+    font-size: 1.4rem;
+    color: var(--color-titulos);
+    font-family: var(--font-Sniglet);
+    /* text-align:center; */
+}
+
+.tp__titulo{
+    margin-bottom: 30px;
+}
+

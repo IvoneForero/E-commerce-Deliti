@@ -1,0 +1,10 @@
+.producto__precio {
+    font-weight: 700;
+    font-size: 1.1rem;
+    margin: .5rem 0;
+    color: var(--color-principal);
+}
+
+.producto__precio::before {
+    content: '$ ';
+}

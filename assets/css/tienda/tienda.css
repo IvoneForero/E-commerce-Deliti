@@ -1,0 +1,11 @@
+.tienda {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.tienda__objetivo {
+    margin-top: 1rem;
+    color: var(--color-titulos);
+    text-align: justify;
+}

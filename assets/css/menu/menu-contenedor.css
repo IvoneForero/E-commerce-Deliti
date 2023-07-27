@@ -1,0 +1,42 @@
+.menu__contenedor{
+    margin: 1px;
+    max-width: 1260px;
+    overflow: auto;
+    padding: 0 20px;
+    
+}
+
+
+.menu__contenedor i{
+    display: none;
+    
+}
+
+@media screen and (max-width: 720px){
+
+    .menu__contenedor{
+        display: flex;
+        justify-content: end;
+    }
+
+    .menu__contenedor i{
+        width: 50px;
+        height: 50px;
+        background: rgba(16, 126, 141, 0.212);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 24px;
+        border-radius: 50%;
+        cursor: pointer;
+        transition: all 300ms;
+        margin-top: 0.5rem;
+        position: fixed;
+        z-index: 1;
+    }
+
+    .menu__contenedor i:hover{
+        background: rgba(36, 155, 184, 0.61);
+    }
+
+}

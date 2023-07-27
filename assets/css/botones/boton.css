@@ -1,0 +1,39 @@
+.btn {
+    display: block;
+    font-size: 1rem;
+    line-height: 1.5;
+    padding: .5rem 2rem;
+    background-color: var(--color-btn);
+    text-decoration: none;
+    color: var(--color-titulos);
+    border: none;
+    align-self: center;
+    border-radius: .5rem;
+    -webkit-border-radius: 50rem;
+    -moz-border-radius: 50rem;
+    -ms-border-radius: 50rem;
+    -o-border-radius: 50rem;
+    
+    font-family: var(--font-Acme);
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    transform: ease .20s;
+    cursor: pointer;
+    font-weight: 600;
+}
+
+.btn:hover{
+    border: .3px solid var(--color-titulos);
+    background: var(--color-btn);
+    transform: scale(1.03);
+    transition: ease 0.20s
+}
+
+.btn__regresar {
+    background-color: var(--color-textos);
+    color: var(--texto-titulo);
+    color: var(--color-titulos);
+}
+
+
+

@@ -1,0 +1,4 @@
+.producto__link {
+    text-decoration: none;
+    color: var(--color-secundario);
+}

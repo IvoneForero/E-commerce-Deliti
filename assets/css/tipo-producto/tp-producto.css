@@ -1,0 +1,12 @@
+
+.producto__contenido {
+    flex-direction: column;
+}
+
+.producto__principal {
+    display: flex;
+    justify-content: space-between;
+    line-height: 5;
+}
+
+

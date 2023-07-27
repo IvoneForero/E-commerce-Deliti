@@ -1,0 +1,17 @@
+.informacion__elemento {
+    margin: 1.5rem;
+    width: 100%;
+}
+
+@media screen and (min-width: 768px) {
+}
+
+@media screen and (min-width: 1024px) {
+    .informacion__elemento {
+        width: 33%;
+    }
+}
+
+@media screen and (min-width: 1440px) {
+
+}

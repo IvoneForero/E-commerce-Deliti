@@ -1,0 +1,38 @@
+:root {
+    --background: #e6f7f8;
+    --background_2: #0e2f475b; 
+
+    /* 
+    --background: #323341;
+    --background_2: #0e2f475b; 
+    */
+    
+    --color-principal:rgb(35,91, 119);
+    --color-flotante: rgba(35, 91, 119, 0.308);
+    --color-textos: rgb(85,185, 200);
+    --color-texto: rgba(85, 185, 200, 0.308);
+    --color-textos2: #007b97;
+    --color-titulos:#83595b;
+    --color-titulo:#04fafa;
+    --color-menu: #32b2a785;
+    --color-btn:#32b2ac;
+    --color-alerta:#b41926;
+    --color-formulario: #F5F5F5;
+    --color-secundario: #c92492;
+
+    --font-Sansita: "Sansita", sans-serif;
+    --font-Patrick: "Patrick Hand";
+    --font-Sniglet: "Sniglet";
+    --font-Chivo: "Chivo";
+    --font-Acme: "Acme";
+    --font-Sriracha: "Sriracha";
+    
+    --principal: #c92492;
+    --letra-clara: #FFFFFF;
+    --letra-oscura: #464646;
+    --letra-semioscura: #707070;
+    
+    --fondo-celeste: #EAF2FD;
+    
+
+    }

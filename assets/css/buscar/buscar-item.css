@@ -1,0 +1,14 @@
+.buscar__item {
+    padding: .5rem 1rem;
+    border: solid 1px var(--color-btn);
+    border-right: none;
+    font-size: 1rem;
+    color: var(--color-titulos);
+    border-radius: .5em 0 0 .5rem;
+    -webkit-border-radius: .5rem 0 0 .5rem;
+    -moz-border-radius: .5rem 0 0 .5rem;
+    -ms-border-radius: .5rem 0 0 .5rem;
+    -o-border-radius: .5rem 0 0 .5rem;
+    outline: none;
+    font-family: var(--font-Acme)
+}

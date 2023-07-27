@@ -1,0 +1,35 @@
+.icono {
+    width: 2rem;
+    height: 2rem;
+    display: inline-block;
+}
+
+.icono__lupa {
+    background-image: url(./../../img/iconos/buscar.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 2rem;
+    height: 2rem;
+}
+
+.icono__flecha {
+    background-image: url(./../../img/iconos/flecha2.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.icono__editar {
+    background-image: url(./../../img/iconos/edit-blue.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 1rem;
+    height: 1rem;
+}
+
+.icono__eliminar {
+    background-image: url(./../../img/iconos/papelera_red.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 1rem;
+    height: 1rem;
+}

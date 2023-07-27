@@ -1,0 +1,28 @@
+
+
+
+.social__img{
+    margin-top: 7%;
+    width: 40px;
+    margin-right: 2rem;
+}
+
+.social__wts{
+    margin-top: 7%;
+    width: 42px;
+    margin-right: 1rem;
+}
+
+
+@media screen and (max-width: 870px){
+    .social{
+        display: flex;
+        
+    }
+
+    .social__img{
+        width: 40px;
+        margin-right: 5rem;
+    }
+
+}

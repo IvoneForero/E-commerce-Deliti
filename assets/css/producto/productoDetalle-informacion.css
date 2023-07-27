@@ -1,0 +1,4 @@
+.producto__detalle-informacion {
+    display: flex;
+    flex-direction: column;
+}
