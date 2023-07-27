@@ -1,4 +1,4 @@
-const url = "http://localhost:3000/productos";
+const url = "https://my-json-server.typicode.com/ivoneforero/E-commerce-Delliti/productos";
 
 const productos = () => 
     fetch(`${url}`).then((respuesta) => respuesta.json());

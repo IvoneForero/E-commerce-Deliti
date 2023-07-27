@@ -1,4 +1,4 @@
-const url = "http://localhost:3000/usuarios";
+const url = "https://my-json-server.typicode.com/ivoneforero/E-commerce-Delliti/usuarios";
 
 //"https://my-json-server.typicode.com/zidjian/b-b-opticas/usuarios"; 
 
