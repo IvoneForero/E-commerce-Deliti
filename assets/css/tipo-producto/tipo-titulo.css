@@ -1,9 +1,9 @@
 .producto__titulo {
     font-weight: 700;
-    font-size: 1.4rem;
+    font-size: 1.3rem;
     color: var(--color-titulos);
     font-family: var(--font-Sniglet);
-    /* text-align:center; */
+    
 }
 
 .tp__titulo{

@@ -6,7 +6,12 @@
 .producto__principal {
     display: flex;
     justify-content: space-between;
-    line-height: 5;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
 }
 
 
